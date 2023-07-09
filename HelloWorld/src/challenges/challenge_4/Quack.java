@@ -1,4 +1,4 @@
-package challenges.challlenge_4;
+package challenges.challenge_4;
 
 public class Quack {
     public static void main(String[] args) {

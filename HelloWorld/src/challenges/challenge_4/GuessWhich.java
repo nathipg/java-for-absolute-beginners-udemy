@@ -1,4 +1,4 @@
-package challenges.challlenge_4;
+package challenges.challenge_4;
 
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
