@@ -1,6 +1,6 @@
 package unit4_variables;
 
-public class Main {
+public class Variables {
     public static void main(String[] args) {
         int age = 10;
         double money = 10.5;
