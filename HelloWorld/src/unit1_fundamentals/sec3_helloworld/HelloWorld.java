@@ -1,6 +1,6 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
-public class Main {
+package unit1_fundamentals.sec3_helloworld;
+
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World");
 
@@ -8,8 +8,17 @@ public class Main {
         System.out.println("Big\tDog");
         System.out.println("Rabbit Delete\b");
 
+        hazelnut();
+
         System.out.println("The dog said \"Woof\"");
 
         System.out.println("C:\\some\\path\\big\\name");
+
+        hazelnut();
+    }
+
+    public static void hazelnut() {
+        System.out.println("Tree");
+        System.out.println("Grass");
     }
 }
